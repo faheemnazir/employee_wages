@@ -15,7 +15,7 @@ public class chech_if_present
         }
         else
         {
-            Console.WriteLine("employess is absant");
+            Console.WriteLine("employee is absant");
             
             
         }
